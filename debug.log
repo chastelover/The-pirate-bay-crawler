@@ -1,0 +1,5 @@
+[1009/172640.079:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1009/172640.081:ERROR:exception_snapshot_win.cc(99)] thread ID 28892 not found in process
+[1009/172640.115:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1009/172640.115:ERROR:exception_snapshot_win.cc(99)] thread ID 12968 not found in process
+[1010/160123.638:ERROR:settings.cc(430)] Settings version is not 5
